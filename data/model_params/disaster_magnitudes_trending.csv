@@ -1,0 +1,55 @@
+,Region,Shape,Scale_coef,Var
+0,Southern Asia,0.8801710605621338,0.1884697526693344,Storm_duration_outlier
+1,Eastern Asia,0.6534712910652161,-0.045347198843955994,Storm_duration_outlier
+2,Southern Europe,0.6964734792709351,-0.09853042662143707,Storm_duration_outlier
+3,Western Europe,0.500164806842804,-0.16909456253051758,Storm_duration_outlier
+4,Northern Africa,1.0240651369094849,0.012882079929113388,Storm_duration_outlier
+5,South-Eastern Asia,0.7262133955955505,0.1272924393415451,Storm_duration_outlier
+6,Eastern Africa,0.9701346755027771,-0.14310936629772186,Storm_duration_outlier
+7,Northern Europe,0.5072327852249146,-0.21599987149238586,Storm_duration_outlier
+8,Western Africa,1.6287084817886353,0.5768020153045654,Storm_duration_outlier
+9,Western Asia,1.2806397676467896,-0.15349027514457703,Storm_duration_outlier
+10,Eastern Europe,0.9932068586349487,-0.2401086390018463,Storm_duration_outlier
+11,Southern Africa,0.9580960273742676,-0.0331835113465786,Storm_duration_outlier
+12,Middle Africa,1.4352779388427734,-0.18494275212287903,Storm_duration_outlier
+13,Russian Federation,0.5661988854408264,-0.465470552444458,Storm_duration_outlier
+14,Central Asia,1.7248821258544922,0.3206900656223297,Storm_duration_outlier
+15,Global,10.84271837141722,0.0,Storm_duration_outliers_scalermean
+16,Global,14.041415973315043,0.0,Storm_duration_outliers_scalerstd
+17,Global,0.7358077397459887,0.0,Storm_duration_outliers_scalershiftval
+18,Southern Asia,0.7013270854949951,0.3371120095252991,Flood_magnitude_outlier
+19,Eastern Asia,1.209171175956726,0.10228626430034637,Flood_magnitude_outlier
+20,Southern Europe,0.8105491399765015,0.23337644338607788,Flood_magnitude_outlier
+21,Western Europe,0.7052326798439026,0.022961124777793884,Flood_magnitude_outlier
+22,Northern Africa,1.4660872220993042,0.2521495223045349,Flood_magnitude_outlier
+23,South-Eastern Asia,0.5021542906761169,0.653634786605835,Flood_magnitude_outlier
+24,Eastern Africa,0.9391074180603027,-0.10715086758136749,Flood_magnitude_outlier
+25,Northern Europe,1.5107810497283936,-0.12657175958156586,Flood_magnitude_outlier
+26,Western Africa,0.8737465143203735,0.0969487726688385,Flood_magnitude_outlier
+27,Western Asia,0.9271259903907776,0.3500327467918396,Flood_magnitude_outlier
+28,Eastern Europe,0.9210080504417419,-0.5743359923362732,Flood_magnitude_outlier
+29,Southern Africa,1.4563114643096924,0.2636049687862396,Flood_magnitude_outlier
+30,Middle Africa,1.0512763261795044,0.5665032267570496,Flood_magnitude_outlier
+31,Russian Federation,1.2408018112182617,0.31455883383750916,Flood_magnitude_outlier
+32,Central Asia,0.7455407977104187,0.9639713764190674,Flood_magnitude_outlier
+33,Global,417392.75155279506,0.0,Flood_magnitude_outliers_scalermean
+34,Global,454949.26694926695,0.0,Flood_magnitude_outliers_scalerstd
+35,Global,0.912249631323718,0.0,Flood_magnitude_outliers_scalershiftval
+36,Southern Asia,0.6512271165847778,-0.2525269687175751,Flood_magnitude_nonoutlier
+37,Eastern Asia,0.5595497488975525,-0.28404533863067627,Flood_magnitude_nonoutlier
+38,Southern Europe,0.33247411251068115,-0.22240987420082092,Flood_magnitude_nonoutlier
+39,Western Europe,0.22335252165794373,-0.6269914507865906,Flood_magnitude_nonoutlier
+40,Northern Africa,1.2900925874710083,-0.14954720437526703,Flood_magnitude_nonoutlier
+41,South-Eastern Asia,0.3763759732246399,-0.3448947072029114,Flood_magnitude_nonoutlier
+42,Eastern Africa,0.4211185574531555,-0.4764203727245331,Flood_magnitude_nonoutlier
+43,Northern Europe,0.9033501148223877,-0.18806692957878113,Flood_magnitude_nonoutlier
+44,Western Africa,0.2686883807182312,-0.7494189739227295,Flood_magnitude_nonoutlier
+45,Western Asia,0.7334113121032715,-0.15392610430717468,Flood_magnitude_nonoutlier
+46,Eastern Europe,0.41643455624580383,-0.43796297907829285,Flood_magnitude_nonoutlier
+47,Southern Africa,0.4695459306240082,-0.2945917844772339,Flood_magnitude_nonoutlier
+48,Middle Africa,0.5406306385993958,-0.3912387788295746,Flood_magnitude_nonoutlier
+49,Russian Federation,0.5716193914413452,-0.8489696979522705,Flood_magnitude_nonoutlier
+50,Central Asia,0.4678284525871277,-0.5795850157737732,Flood_magnitude_nonoutlier
+51,Global,38227.39240506329,0.0,Flood_magnitude_nonoutliers_scalermean
+52,Global,54357.6812873887,0.0,Flood_magnitude_nonoutliers_scalerstd
+53,Global,0.7032297014248252,0.0,Flood_magnitude_nonoutliers_scalershiftval
